@@ -88,13 +88,16 @@ This environment mirrors a small-to-medium business network and demonstrates the
   - DNS  
   - Group Policy Management 
 
+
+```bash
 lab.local
-├── HR
-│ ├── Users
-│ └── Computers
-├── Sales
-│ ├── Users
-│ └── Computers
-└── IT
-├── Users
-└── Computers
+ ├── HR
+ │    ├── Users
+ │    └── Computers
+ ├── Sales
+ │    ├── Users
+ │    └── Computers
+ └── IT
+      ├── Users
+      └── Computers
+```
