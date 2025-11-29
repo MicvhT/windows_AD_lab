@@ -1,4 +1,5 @@
-# Windows Active Directory Lab - Windows AD + Windows 10/11 + pfSense + Ubuntu
+# Windows Active Directory Lab
+**Windows AD + Windows 10/11 + pfSense + Ubuntu**
 
 Short Description : A virtualized IT Support Engineer homelab built using **Proxmox VE**, featuring pfSense firewalling, VLAN segmentation, Active Directory (Windows Server 2022), domain-joined Windows 10/11 clients, and an Ubuntu Server providing optional IT services. This lab simulates a small-business IT environment and demonstrates real-world skills in workstation support, AD/GPO management, networking, and Linux administration.
 
